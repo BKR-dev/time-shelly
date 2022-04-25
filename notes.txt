@@ -1,0 +1,1 @@
+ffmpeg -i Inputfile -ss 00:00:00 -to 00:06:09 -c copy FirstPart
